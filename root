@@ -1,1 +1,2 @@
-
+# Required MIME types for MSIX distribution
+include: [_config.yml, .nojekyll, *.msix, *.appinstaller, *.cer]
